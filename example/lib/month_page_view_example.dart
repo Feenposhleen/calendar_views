@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide Page;
 
 import 'package:calendar_views/month_page_view.dart';
 
